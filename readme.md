@@ -19,3 +19,5 @@ make run
 make clean
 ```
 ----
+
+\\( \mathbf{w}^T\mathbf{x} \\)
